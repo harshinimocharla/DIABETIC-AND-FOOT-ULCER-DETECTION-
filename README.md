@@ -11,6 +11,8 @@ This project focuses on the diagnosis and monitoring of type 2 diabetes and foot
 
 ## Project Structure
 Medical_Thermogram_Analysis/
+
+
 │
 ├── data/                                        # Raw and processed data
 │   ├── Control_Group/                           # Healthy patients
