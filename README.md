@@ -52,8 +52,7 @@ Run the deployment notebook or server script.
 - Expand exercise recommendation system.
 - Enhance foot ulcer detection accuracy.
 
-## Contributors
-- **Your Name** - Project Lead
+
 
 ## Acknowledgments
 Special thanks to the researchers and datasets that made this project possible.
